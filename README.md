@@ -28,6 +28,6 @@ Experiments show that token-level DP slicing significantly reduces latency compa
 We also provide plots showing the compute surface, communication regions, DP reconstruction path, and slice-size distribution — all included in the project presentation.
 
 For full details, motivation, figures, and results, see the project report:
-📄 NHPC_PRESENTATION.pptx (included in this repository).
+📄 NHPC_PRESENTATION.ppd (included in this repository).
 
 This work demonstrates that token-level parallelism is an effective way to reduce pipeline bubbles and improve utilization when training or running large models on multi-device systems.
